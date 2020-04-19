@@ -1,2 +1,2 @@
-Znana mini gra w której naszym zadaniem jest odgadniêcie has³a z katagorii polskie przys³owia.
-Póki co w bazie znajduje siê tylko jadno has³o.
+Znana mini gra przegÄ…darkowa w ktÃ³rej naszym zadaniem jest odgadniÄ™cie hasÅ‚a z katagorii polskie przysÅ‚owia.
+* PÃ³ki co w bazie znajduje siÄ™ tylko jadno hasÅ‚o.
